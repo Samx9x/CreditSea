@@ -7,7 +7,6 @@ Modern full-stack MERN application for processing XML credit reports from Experi
 - **TypeScript** everywhere for type safety
 - **Modern UI** with Tailwind CSS v4 & React 19
 - **Drag & Drop** file upload
-- **Dark Mode** support
 - **Real-time** validation and error handling
 - **Dashboard** with statistics
 - **Pagination** and filtering
@@ -52,14 +51,6 @@ Frontend runs on http://localhost:5173
 - `GET /api/v1/reports/stats` - Get statistics
 - `GET /health` - Health check
 
-## 🎨 UI Features
-
-- Upload page with drag & drop
-- Reports list with filtering
-- Detailed report view
-- Dashboard with stats
-- Dark mode toggle
-- Fully responsive
 
 ## 🔧 Environment Variables
 
@@ -74,17 +65,6 @@ FRONTEND_URL=http://localhost:5173
 ```
 VITE_API_URL=http://localhost:8000/api/v1
 ```
-
-## 📊 Key Improvements
-
-✅ Complete TypeScript rewrite
-✅ Modern React with Vite
-✅ Enhanced security & validation
-✅ Beautiful, responsive UI
-✅ Dark mode support
-✅ Better error handling
-✅ Performance optimizations
-✅ Production-ready logging
 
 ---
 
