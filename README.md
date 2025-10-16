@@ -1,4 +1,4 @@
-# 🚀 Credit Report Processor v2.0
+# 🚀 Credit Report Processor
 
 Modern full-stack MERN application for processing XML credit reports from Experian.
 
